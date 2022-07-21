@@ -1,3 +1,3 @@
 module.exports = {
-  APP_URL: process.env.APP_URL || "https://jiosaavn-api.vercel.app", // don't give last slash
+  APP_URL: process.env.APP_URL || "https://jiosaavn-ayq7j43jy-advalaki.vercel.app", // don't give last slash
 };
